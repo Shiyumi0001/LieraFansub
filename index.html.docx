@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Benim Manhwa Sitem</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 20px; }
+    .manhwa { background: #fff; margin-bottom: 10px; padding: 15px; border-radius: 5px; }
+    .manhwa h2 { margin-top: 0; }
+    a { color: #3498db; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Benim Manhwa Sitem</h1>
+
+  <div class="manhwa">
+    <h2>Solo Leveling</h2>
+    <p><a href="#">Bölüm 1</a> | <a href="#">Bölüm 2</a> | <a href="#">Bölüm 3</a></p>
+  </div>
+
+  <div class="manhwa">
+    <h2>Tower of God</h2>
+    <p><a href="#">Bölüm 1</a> | <a href="#">Bölüm 2</a> | <a href="#">Bölüm 3</a></p>
+  </div>
+
+</body>
+</html>
